@@ -1,0 +1,42 @@
+[
+  {
+    "address": "0xCF712f20c85421d00EAa1B6F6545AaEEb4492B75",
+    "chainId": 5611,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ibrahimijai/tokenlist/master/logos/usdt.jpg",
+    "name": "USDT Token",
+    "symbol": "USDT"
+  },
+  {
+    "address": "0x584f7b986d9942B0859a1E6921efA5342A673d04",
+    "chainId": 5611,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ibrahimijai/list/master/logos/eth.jpg",
+    "name": "Wrapped Ether",
+    "symbol": "ETH"
+  },
+  {
+    "address": "0x3AB4E696E31173409dbfBb1FEB5b9A7cC55A212c",
+    "chainId": 5611,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ibrahimijai/list/master/logos/btc.jpg",
+    "name": "Wrapped BTC",
+    "symbol": "BTCB"
+  },
+  {
+    "address": "0x54ac6B07C353377C8bDC9Af7d1B636a339207686",
+    "chainId": 5611,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ibrahimijai/list/master/logos/link.jpg",
+    "name": "ChainLink Token",
+    "symbol": "LINK"
+  },
+  {
+    "address": "0xD8d63d656AD7F08F50e03a59CFAbe654a761d5fD",
+    "chainId": 5611,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/ibrahimijai/list/master/logos/usdc.jpg",
+    "name": "USD Coin",
+    "symbol": "USDC "
+  }
+]
